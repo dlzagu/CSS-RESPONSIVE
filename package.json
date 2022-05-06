@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlzagu/CSS-RESPONSIVE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlzagu/CSS-RESPONSIVE/issues"
+  },
+  "homepage": "https://github.com/dlzagu/CSS-RESPONSIVE#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
